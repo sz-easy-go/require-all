@@ -1,0 +1,19 @@
+{
+  "name": "require-all",
+  "homepage": "https://github.com/VanMess/require.all",
+  "_release": "e09b45e01f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e09b45e01fda9c3bde149da94e4021a7acd8a4fb"
+  },
+  "_source": "git://github.com/shenzhen-easy-go/require-all.git",
+  "_target": "*",
+  "_originalSource": "shenzhen-easy-go/require-all",
+  "_cacheHeaders": {
+    "ETag": "\"56205499-b8c0\"",
+    "Last-Modified": "Fri, 16 Oct 2015 01:36:25 GMT",
+    "Content-Length": "47296",
+    "Content-Type": "application/zip"
+  }
+}
